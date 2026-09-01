@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/jaiswalsandeep508/Data-Structures-Algorithms/tree/master/0013-roman-to-integer) |
+| [0141-linked-list-cycle](https://github.com/jaiswalsandeep508/Data-Structures-Algorithms/tree/master/0141-linked-list-cycle) |
 ## Math
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/jaiswalsandeep508/Data-Structures-Algorithms/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/jaiswalsandeep508/Data-Structures-Algorithms/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/jaiswalsandeep508/Data-Structures-Algorithms/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jaiswalsandeep508/Data-Structures-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/jaiswalsandeep508/Data-Structures-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/jaiswalsandeep508/Data-Structures-Algorithms/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/jaiswalsandeep508/Data-Structures-Algorithms/tree/master/0141-linked-list-cycle) |
 ## String Matching
 |  |
 | ------- |
@@ -151,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/jaiswalsandeep508/Data-Structures-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/jaiswalsandeep508/Data-Structures-Algorithms/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/jaiswalsandeep508/Data-Structures-Algorithms/tree/master/0112-path-sum) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/jaiswalsandeep508/Data-Structures-Algorithms/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
