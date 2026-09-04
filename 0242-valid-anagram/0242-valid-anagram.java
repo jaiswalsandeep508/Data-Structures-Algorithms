@@ -5,21 +5,17 @@ class Solution {
             return false;
         }
 
-        HashMap<Character, Integer> map = new HashMap<>();
+        int[] freq = new int[26];
 
         for (char ch : t.toCharArray()) {
-            map.put(ch, map.getOrDefault(ch, 0) + 1);
+            freq[ch-'a']++;
         }
 
         for (char ch : s.toCharArray()) {
 
-            if (!map.containsKey(ch)) {
-                return false;
-            }
+            freq[ch-'a']--;
 
-            map.put(ch, map.get(ch) - 1);
-
-            if (map.get(ch) < 0) {
+            if (freq [ch-'a'] < 0) {
                 return false;
             }
         }
