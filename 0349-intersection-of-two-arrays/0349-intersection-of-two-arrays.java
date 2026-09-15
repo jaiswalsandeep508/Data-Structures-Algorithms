@@ -1,10 +1,6 @@
 class Solution {
     public int[] intersection(int[] nums1, int[] nums2) {
 
-        // Agar nums1 bada hai, arrays swap kar do
-        if (nums1.length > nums2.length) {
-            return intersection(nums2, nums1);
-        }
         HashSet<Integer> set1 = new HashSet<>();
         HashSet<Integer> result = new HashSet<>();
 
