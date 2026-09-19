@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/jaiswalsandeep508/Data-Structures-Algorithms/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/jaiswalsandeep508/Data-Structures-Algorithms/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/jaiswalsandeep508/Data-Structures-Algorithms/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/jaiswalsandeep508/Data-Structures-Algorithms/tree/master/0412-fizz-buzz) |
 ## String
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/jaiswalsandeep508/Data-Structures-Algorithms/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/jaiswalsandeep508/Data-Structures-Algorithms/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/jaiswalsandeep508/Data-Structures-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/jaiswalsandeep508/Data-Structures-Algorithms/tree/master/0412-fizz-buzz) |
 ## Array
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/jaiswalsandeep508/Data-Structures-Algorithms/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/jaiswalsandeep508/Data-Structures-Algorithms/tree/master/0412-fizz-buzz) |
 ## Newton's Method
 |  |
 | ------- |
