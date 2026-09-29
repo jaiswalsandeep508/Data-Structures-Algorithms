@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jaiswalsandeep508/Data-Structures-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jaiswalsandeep508/Data-Structures-Algorithms/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/jaiswalsandeep508/Data-Structures-Algorithms/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/jaiswalsandeep508/Data-Structures-Algorithms/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/jaiswalsandeep508/Data-Structures-Algorithms/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/jaiswalsandeep508/Data-Structures-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/jaiswalsandeep508/Data-Structures-Algorithms/tree/master/0118-pascals-triangle) |
@@ -257,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/jaiswalsandeep508/Data-Structures-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/jaiswalsandeep508/Data-Structures-Algorithms/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
