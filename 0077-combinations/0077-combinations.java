@@ -1,9 +1,7 @@
 class Solution {
     public List<List<Integer>> combine(int n, int k) {
         List<List<Integer>> result = new ArrayList<>();
-
         backtrack(1, n, k, new ArrayList<>(), result);
-
         return result;
     }
 
@@ -16,7 +14,10 @@ class Solution {
             return;
         }
 
-        for (int i = start; i <= n; i++) {
+        for (int i = start;
+             i <= n - (k - current.size()) + 1;
+             i++) {
+
             current.add(i);
 
             backtrack(i + 1, n, k, current, result);
