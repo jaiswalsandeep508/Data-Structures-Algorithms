@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/jaiswalsandeep508/Data-Structures-Algorithms/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/jaiswalsandeep508/Data-Structures-Algorithms/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/jaiswalsandeep508/Data-Structures-Algorithms/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/jaiswalsandeep508/Data-Structures-Algorithms/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/jaiswalsandeep508/Data-Structures-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/jaiswalsandeep508/Data-Structures-Algorithms/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jaiswalsandeep508/Data-Structures-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/jaiswalsandeep508/Data-Structures-Algorithms/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/jaiswalsandeep508/Data-Structures-Algorithms/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/jaiswalsandeep508/Data-Structures-Algorithms/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/jaiswalsandeep508/Data-Structures-Algorithms/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/jaiswalsandeep508/Data-Structures-Algorithms/tree/master/0389-find-the-difference) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/jaiswalsandeep508/Data-Structures-Algorithms/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/jaiswalsandeep508/Data-Structures-Algorithms/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/jaiswalsandeep508/Data-Structures-Algorithms/tree/master/0078-subsets) |
 ## DP on Trees
 |  |
 | ------- |
