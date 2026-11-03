@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/jaiswalsandeep508/Data-Structures-Algorithms/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/jaiswalsandeep508/Data-Structures-Algorithms/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/jaiswalsandeep508/Data-Structures-Algorithms/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/jaiswalsandeep508/Data-Structures-Algorithms/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/jaiswalsandeep508/Data-Structures-Algorithms/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/jaiswalsandeep508/Data-Structures-Algorithms/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/jaiswalsandeep508/Data-Structures-Algorithms/tree/master/0383-ransom-note) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/jaiswalsandeep508/Data-Structures-Algorithms/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/jaiswalsandeep508/Data-Structures-Algorithms/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jaiswalsandeep508/Data-Structures-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/jaiswalsandeep508/Data-Structures-Algorithms/tree/master/0131-palindrome-partitioning) |
 ## Memoization
 |  |
 | ------- |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/jaiswalsandeep508/Data-Structures-Algorithms/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/jaiswalsandeep508/Data-Structures-Algorithms/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/jaiswalsandeep508/Data-Structures-Algorithms/tree/master/0078-subsets) |
+| [0131-palindrome-partitioning](https://github.com/jaiswalsandeep508/Data-Structures-Algorithms/tree/master/0131-palindrome-partitioning) |
 ## DP on Trees
 |  |
 | ------- |
