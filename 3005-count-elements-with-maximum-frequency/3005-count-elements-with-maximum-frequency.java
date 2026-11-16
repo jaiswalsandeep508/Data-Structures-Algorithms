@@ -3,37 +3,24 @@ class Solution {
 
         int maxFrequency = 0;
         int result = 0;
+        HashMap<Integer,Integer> map = new HashMap<>();
 
         for (int i = 0; i < nums.length; i++) {
+            int count = map.getOrDefault(nums[i],0);
+            map.put(nums[i],count+1);
+        }
 
-            // Skip already processed elements
-            boolean alreadyCounted = false;
+        for (Map.Entry<Integer, Integer> entry : map.entrySet()) {
 
-            for (int k = 0; k < i; k++) {
-                if (nums[i] == nums[k]) {
-                    alreadyCounted = true;
-                    break;
-                }
-            }
+            int key = entry.getKey();
+            int value = entry.getValue();
 
-            if (alreadyCounted) {
-                continue;
-            }
-
-            int count = 0;
-
-            for (int j = 0; j < nums.length; j++) {
-                if (nums[i] == nums[j]) {
-                    count++;
-                }
-            }
-
-            if (count > maxFrequency) {
-                maxFrequency = count;
-                result = count;
-            }
-            else if (count == maxFrequency) {
-                result += count;
+            if (value > maxFrequency) {
+                maxFrequency = value;
+                result = value;
+            } 
+            else if (value == maxFrequency) {
+                result = result + value;
             }
         }
 
